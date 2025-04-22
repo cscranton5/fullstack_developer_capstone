@@ -25,3 +25,5 @@ cd ..
 cd ./database
 docker build . -t nodeapp
 #docker-compose up
+
+cd ..
