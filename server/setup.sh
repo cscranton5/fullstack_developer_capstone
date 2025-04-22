@@ -9,4 +9,14 @@ python3 manage.py makemigrations
 
 python3 manage.py migrate
 
+git config --global user.name cscranton5
+git config --global user.email carterscranton5@gmail.com
+
+cd ./frontend
+
+npm install
+
+npm run build
+
+cd ..
 #python3 manage.py runserver
