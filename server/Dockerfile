@@ -2,6 +2,8 @@
 
     ENV PYTHONBUFFERED 1
     ENV PYTHONWRITEBYTECODE 1
+    ENV backend_url=https://carterscrant-3030.theiadockernext-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai
+    ENV sentiment_analyzer_url=https://sentianalyzer.1ulrfycy5ql0.us-south.codeengine.appdomain.cloud
 
     ENV APP=/app
 
